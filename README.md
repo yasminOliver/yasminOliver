@@ -1,16 +1,18 @@
-### Hi there 👋
+### Yasmin Oliveira 👋
 
 <!--
 **yasminOliver/yasminOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! My name is Yasmin Oliveira, I'am from Brazil 🇧🇷 and I am developer and IOS and I’m currently learning Java.
+I am dedicated to solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠"Se um ser humano é capaz de fazer então todos também serão!" 🧠**
+
+- 🎓 Systems Analysis and Development Student
+- 🌍 Born in Brazil city of Rio de Janeiro...
+- 📱 Developer IOS
+- ☕️ Studying Java
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/yasmin-oliveira-dev/)](https://www.linkedin.com/in/yasmin-oliveira-dev/)
