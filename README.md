@@ -1,7 +1,5 @@
 ### Yasmin Oliveira 👋
 
-<!--
-**yasminOliver/yasminOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi! My name is Yasmin Oliveira, I'am from Brazil 🇧🇷 and I am developer and IOS and I’m currently learning Java.
 I am dedicated to solving problems and learning. Always open to new challenges and ready to face changes.
