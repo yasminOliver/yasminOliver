@@ -1,7 +1,7 @@
 ### Yasmin Oliveira 👋
 
 
-Hi! My name is Yasmin Oliveira, I'am from Brazil 🇧🇷 and I am developer and IOS and I’m currently learning Java.
+Hi! My name is Yasmin Oliveira, I'am from Brazil 🇧🇷 and I am developer and IOS and currently learning Java.
 I am dedicated to solving problems and learning. Always open to new challenges and ready to face changes.
 
 ### **🛠"Se um ser humano é capaz de fazer então todos também serão!" 🧠**
