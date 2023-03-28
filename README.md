@@ -27,3 +27,5 @@ Conheça mais o meu perfil:
 
   <a href="https://www.linkedin.com/in/yasmin-oliveira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake Animation](https://github.com/yasminOliver/yasminOliver/blob/output/github-contribution-grid-snake.svg)
