@@ -1,9 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou Yasmin Oliveira :iphone: :computer:
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia! Estou sempre estudando e aprendendo um pouco mais a cada dia. Faço o desenvolvimento de Apps em IOS utilizando o Swift e SwiftUI e também o desenvolvimento em Android utilizando a linguagem Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 ##
 
 [![Yasmin GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminOliver&show_icons=true&theme=cobalt)](https://github.com/yasminOliver/github-readme-stats)
@@ -24,5 +22,8 @@ Here are some ideas to get you started:
 ##
 
 <div> 
+Conheça mais o meu perfil:
+
+
   <a href="https://www.linkedin.com/in/yasmin-oliveira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
